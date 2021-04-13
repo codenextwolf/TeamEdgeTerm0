@@ -34,7 +34,7 @@ print(f"A fun fact about me is that {funFact}")
 
 # **** Challenge 1: Problem 2 ****
 # Create a string for the different lines of the Happy Birthday Song
-# Print out the song using the stings you declared.
+# Print out the song using the strings you declared.
 
 
 
