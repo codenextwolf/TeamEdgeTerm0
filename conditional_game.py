@@ -1,3 +1,5 @@
+import random
+
 # -------------------------------------------- 
 
 	# You've just learned about variables, conditionals.
@@ -70,7 +72,7 @@
 		# 18 - Outlook not so good.
 		# 19 - Very doubtful.
 
-	# Look up Math.random to see how you can use it to select a random number.
+	# Look up random.rand_int to see how you can use it to select a random number.
 
   # -------------------------------------------- 
 
