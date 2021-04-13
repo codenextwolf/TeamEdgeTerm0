@@ -1,2 +1,2 @@
 # TeamEdgeTerm0
-Javascript challenges for Team Edge
+Python challenges for Team Edge
