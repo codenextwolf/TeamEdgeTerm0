@@ -105,6 +105,8 @@
 
 # The receipt should include:
 # - Cost of each item
+# - Tax for the order
+# - Tip for the order
 # - Total cost for the order
 
 # Remember! Functions are meant to be reusable, so write a function that will work when called for each person!
@@ -114,6 +116,14 @@
 
 
 
+# -------------------------------------------- 
+
+# Part 6: Food Order Bot
+
+# Call all of your functions to test your food order bot!
+
+# --------------------------------------------
+
 
 
 
@@ -122,13 +132,12 @@
 
 # -------------------------------------------- 
 
-# Part 5: Upchallenges!
+# Part 7: Upchallenges!
 
 # How many of these upchallenges can you implement?
 
 # - Make sure the user is only entering valid values. If they enter an invalid value, prompt them to re-enter. 
 # - The displayed prices should only have two decimal places.
-# - Display the tax and tip values
 # - Implement a rewards system (stamp cards, buy one get one, etc)
 
 # --------------------------------------------
