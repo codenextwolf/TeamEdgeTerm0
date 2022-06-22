@@ -35,7 +35,19 @@
 # -------------------------------------------- 
 
 # Part 1:
-# Let's start by displaying the menu. Include the food item name and it's cost. 
+# Let's start by creating the variables we'll need to keep track of the user's order
+# as well as TAX and tip
+
+# Remember: Your user should be able to order at least 3 items (a drink, meal, and dessert item). 
+
+# --------------------------------------------
+
+
+
+# -------------------------------------------- 
+
+# Part 2:
+# Next, let's display the menu. Include the food item name and it's cost. 
 
 # Write a function that will display the menu:
 # - Print each item available and it's cost. You should have at least 3 items available (a drink, meal, and dessert item). 
@@ -49,7 +61,7 @@
 
 # -------------------------------------------- 
 
-# Part 2:
+# Part 3:
 # Let's take the order. What did the user order? What does it cost?
 
 # Write a function that will take the order:
@@ -73,7 +85,7 @@
 
 # -------------------------------------------- 
 
-# Part 3:
+# Part 4:
 # Now that you have the costs of everything ordered, let's calculate the cost of each person's order(including tip and tax).
 
 # Write a function that will calculate the cost of each person's order, including:
@@ -98,7 +110,7 @@
 
 # -------------------------------------------- 
 
-# Part 4:
+# Part 5:
 # Let's print out a receipt for each person.
 
 # Write a function that will take the values of each person's order and total cost and print it out in an appealing way.
@@ -109,7 +121,6 @@
 # - Tip for the order
 # - Total cost for the order
 
-# Remember! Functions are meant to be reusable, so write a function that will work when called for each person!
 
 # -------------------------------------------- 
 
@@ -120,7 +131,7 @@
 
 # Part 6: Food Order Bot
 
-# Call all of your functions to test your food order bot!
+# Call all of your functions to get your food order bot up and running!
 
 # --------------------------------------------
 
