@@ -58,7 +58,7 @@ print("------------------- CHALLENGE 2 : MODIFY   -------------------")
 
 
 
-print("------------------- CHALLENGE 4 : LITERALLY   -------------------")
+print("------------------- CHALLENGE 3 : LITERALLY   -------------------")
 
 #-->TODO: Put it all together using a string literal to tell the story of your dictionary!
 
