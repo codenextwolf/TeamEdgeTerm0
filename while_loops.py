@@ -100,7 +100,7 @@ print("------------------- CHALLENGE 4 : MATH QUIZ   -------------------")
 
 
 
-#-->TODO: Make a Math Quiz that asks two random numbers (between 0 and 100 to make it easy).
+#-->TODO: Make a Math Quiz that adds two random numbers (between 0 and 100 to make it easy).
 #         The user enters the answer. If wrong, keep prompting. If correct, say congrats!!
 #         Use this handy boolean to get you started! You will need input()!
 
