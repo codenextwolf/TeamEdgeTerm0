@@ -2,17 +2,14 @@
  #                                                                  
  #  Team Edge dictionaries: Dictionaries CHALLENGES 
  # 
- #  For this activity, you will be building a dictionary and with properties
- #  and methods. You will access the properties, set new values, and use
- #  the methods to change your dictionary state. What dictionary? Ask your coach.
+ #  For this activity, you will be building a dictionary with properties. 
+ #  You will access the properties, set new values.
+ #  What dictionary? Ask your coach.
  # 
  #  1. DEFINE: Make a dictionary and set its properties, printing changes in between.
  #  2. MODIFY: Add 2 new properties and assing values. Change existing values,
  #     including adding or updating values inside lists
- #  3. METHODS: Now its time to make some methods. Then can simply make a change
- #     to your values, like a boolean, or they can print something about
- #     the dictionary. Nothing fancy, unless you fancy it.
- #  4. LITERALLY: Use string literals to put it all together in one statement.
+ #  3. LITERALLY: Use string literals to put it all together in one statement.
  # 
  # #########################################################################/
 
@@ -61,6 +58,7 @@ print("------------------- CHALLENGE 2 : MODIFY   -------------------")
 
 
 
-print("------------------- CHALLENGE 4 : LITERALLY   -------------------")
+print("------------------- CHALLENGE 3 : LITERALLY   -------------------")
 
 #-->TODO: Put it all together using a string literal to tell the story of your dictionary!
+
